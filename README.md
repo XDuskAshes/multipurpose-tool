@@ -1,9 +1,7 @@
  
 
 
-> Open this page at [https://xduskashes.github.io/multipurpose-tool/](https://xduskashes.github.io/multipurpose-tool/)
-
-## Use as Extension
+> Open this page at https://arcade.makecode.com/90631-12911-98433-14048
 
 This repository can be added as an **extension** in MakeCode.
 
@@ -11,6 +9,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/xduskashes/multipurpose-tool** and import
+* (!)Only do this if you **DON'T** want to make changes to the project for your own **LOCAL COPY**.
 
 ## Edit this project ![Build status badge](https://github.com/xduskashes/multipurpose-tool/workflows/MakeCode/badge.svg)
 
@@ -19,15 +18,4 @@ To edit this repository in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/xduskashes/multipurpose-tool** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/xduskashes/multipurpose-tool/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+* (!)Only do this if you **DO** want to make changes to the project for your own **LOCAL COPY**.
